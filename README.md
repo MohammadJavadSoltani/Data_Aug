@@ -1,5 +1,5 @@
 <div align="center">
-<img width="932" height="930" alt="image" src="https://github.com/user-attachments/assets/ddbafd1f-319e-451e-94a2-66ba03d91c23" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/ddbafd1f-319e-451e-94a2-66ba03d91c23" />
 
 # HybridAug-OBIA-Wetland
 
