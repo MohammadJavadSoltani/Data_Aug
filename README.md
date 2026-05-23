@@ -176,6 +176,4 @@ If you use this code, please cite:
 <div align="center">
 
 *Observe · Analyze · Optimize · Impact*  
-K.N. Toosi University of Technology · Tehran, Iran
-
 </div>
