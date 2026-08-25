@@ -147,7 +147,7 @@ pip install -r requirements.txt
 
 If you use this code, please cite:
 
-> Soltani, M.J., Latifi, H., Naghavi, H. (2025). *Hybrid Data Augmentation and Object-Based Analysis for LULC Mapping with Imbalanced Training Data in Complex Wetlands.* **Wetlands** (Springer) — under revision.
+> Soltani, M.J., Latifi, H., Naghavi, H. (2025). *Hybrid Data Augmentation and Object-Based Analysis for LULC Mapping with Imbalanced Training Data in Complex Wetlands.* **Wetlands** (Springer) — 10.1007/s13157-026-02121-z
 
 ```bibtex
 @article{soltani2025hybridaug,
