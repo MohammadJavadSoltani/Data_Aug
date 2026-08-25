@@ -155,8 +155,8 @@ If you use this code, please cite:
              with Imbalanced Training Data in Complex Wetlands},
   author  = {Soltani, M.J. and Latifi, H. and Naghavi, H.},
   journal = {Wetlands},
-  year    = {2025},
-  note    = {Under revision}
+  year    = {2026},
+  doi    = {10.1007/s13157-026-02121-z}
 }
 ```
 
